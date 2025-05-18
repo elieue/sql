@@ -814,10 +814,8 @@ ORDER BY home_avg DESC
 
 LIMIT 3;
 
-### Subqueries everywhere! And best practices!Syntax
+### Subqueries everywhere! And best practices!
 
 #### Syntax
 
 ##### Example
-
-blah blah blah
